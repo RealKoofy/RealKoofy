@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RealKoofy
+- 👋 Hi, I’m kila
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning code
+- 🌱 I’m currently working as a junior developer
 
 - 📫 How to reach me: send me an email kilarede.done@gmail.com
 <!---
